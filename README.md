@@ -9,7 +9,6 @@ W - move up
 A - move left
 S - move down
 D - move right
-
 LSHIFT - shoot fireball
 
 Player 2 controls the firey two-headed Red Dragon.
@@ -18,5 +17,4 @@ UP ARROW - move up
 LEFT ARROW - move left
 DOWN ARROW - move down
 RIGHT ARROW - move right
-
 RSHIFT - shoot fireball
